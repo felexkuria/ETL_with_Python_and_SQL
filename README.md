@@ -55,14 +55,14 @@ In this course, Jennifer Ebe, a data engineer with over 5 years of experience, w
 * Quiz
 
 #### Conclusion
-Expand your knowledge of ETLs
-Quiz
+* Expand your knowledge of ETLs
+* Quiz
 
 
 Learner Supports Available:
 
-Exam (Summative Assessment)
-LinkedIn Certificate of Completion
-Exercise Files
+* Exam (Summative Assessment)
+* LinkedIn Certificate of Completion
+* Exercise Files
 
 This course is ideal for those looking to enhance their skills in ETL processes, Python, and SQL, and is particularly relevant for those interested in data engineering and data science.
